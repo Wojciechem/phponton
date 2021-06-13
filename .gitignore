@@ -1,0 +1,10 @@
+vendor/
+.idea/
+*.cache
+
+cache/templates/*
+!cache/templates/.gitkeep
+
+log/*
+!log/.gitkeep
+
